@@ -175,3 +175,6 @@ OPENAI_API_KEY=your_openai_api_key
 - OpenAI `gpt-4o-mini`, `gpt-4o`
 - `graspologic`
 - D3.js
+
+## Acknowledgment
+This project was built with development assistance from OpenAI's ChatGPT (GPT-5.4). It was used to help with implementation, debugging, and iteration during development.
